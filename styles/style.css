@@ -45,6 +45,7 @@ body {
 
 .firstContainer_p {
   line-height: 150%;
+  color: hsl(303, 10%, 53%);
 }
 
 .secondContainer_card {
@@ -166,8 +167,8 @@ body {
 
   .secondSection_card {
     margin-right: 2em;
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
   }
 
   .secondSection_card-one {
